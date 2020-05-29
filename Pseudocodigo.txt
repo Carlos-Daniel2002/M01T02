@@ -1,0 +1,13 @@
+inicio
+1-Me levanto de donde estoy sentado
+2-Busco todas las herramientas de hacer Limpieza (escoba,pala,trapeador,desinfectante,Trapo para limpiar)
+3-Pongo todas las herramientas de hacer Limpieza alejadas de donde haré la limpieza
+4-Comienzo hagarrando la escoba para hacer la acción de barrer en todo el hogar
+5-Pongo toda la basura que barrí fuera del hogar
+6-Agarro la pala y con eso rrecojo la basura para depositarla en un basurero
+7-Ordeno todos los muebles de la casa
+8-Agarro el trapo para limpiar y sacudo con él todo el polvo de los estantes
+9-Busco el desinfectante para vertirlo en todo el piso de la casa
+10-Luego agarro el trapeador para realizar la acción de trapear en todo el hogar
+11-Ordeno todas las herramientas de limpieza que ocupe
+fin
